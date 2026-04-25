@@ -258,17 +258,166 @@ Explicitly excluded. Documented to prevent scope creep and stakeholder requests.
 
 ## Traceability
 
-Filled by roadmapper agent.
+Filled by roadmapper agent on 2026-04-25. Roadmap renumbers PROJECT.md's 8-phase plan into 7 sequential phases (Phase 1+2 merged per PROJECT.md decision).
+
+**Phase Map:**
+- **Phase 1** = Çekirdek Site + Tasarım Sistemi (PROJECT.md Phase 1+2 merged)
+- **Phase 2** = İçerik & Pazarlama (was Phase 3 in PROJECT.md)
+- **Phase 3** = Mühendislik Araçları (was Phase 4 in PROJECT.md)
+- **Phase 4** = Harita & 3D (was Phase 5 in PROJECT.md)
+- **Phase 5** = AI Asistan UI mock (was Phase 6 in PROJECT.md)
+- **Phase 6** = Canlı Üretim & Medya mock (was Phase 7 in PROJECT.md)
+- **Phase 7** = Müşteri Portalı UI mock (was Phase 8 in PROJECT.md)
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (TBD) | (TBD) | Pending |
+| FND-01 | Phase 1 | Pending |
+| FND-02 | Phase 1 | Pending |
+| FND-03 | Phase 1 | Pending |
+| FND-04 | Phase 1 | Pending |
+| FND-05 | Phase 1 | Pending |
+| FND-06 | Phase 1 | Pending |
+| FND-07 | Phase 1 | Pending |
+| FND-08 | Phase 1 | Pending |
+| FND-09 | Phase 1 | Pending |
+| FND-10 | Phase 1 | Pending |
+| FND-11 | Phase 1 | Pending |
+| FND-12 | Phase 1 | Pending |
+| FND-13 | Phase 1 | Pending |
+| DSN-01 | Phase 1 | Pending |
+| DSN-02 | Phase 1 | Pending |
+| DSN-03 | Phase 1 | Pending |
+| DSN-04 | Phase 1 | Pending |
+| DSN-05 | Phase 1 | Pending |
+| DSN-06 | Phase 1 | Pending |
+| DSN-07 | Phase 1 | Pending |
+| DSN-08 | Phase 1 | Pending |
+| HOME-01 | Phase 1 | Pending |
+| HOME-02 | Phase 1 | Pending |
+| HOME-03 | Phase 1 | Pending |
+| HOME-04 | Phase 1 | Pending |
+| HOME-05 | Phase 1 | Pending |
+| HOME-06 | Phase 1 | Pending |
+| HOME-07 | Phase 1 | Pending |
+| HOME-08 | Phase 1 | Pending |
+| HOME-09 | Phase 1 | Pending |
+| CORP-01 | Phase 1 | Pending |
+| CORP-02 | Phase 1 | Pending |
+| CORP-03 | Phase 1 | Pending |
+| SVC-01 | Phase 1 | Pending |
+| SVC-02 | Phase 1 | Pending |
+| SVC-03 | Phase 1 | Pending |
+| SVC-04 | Phase 1 | Pending |
+| PROJ-01 | Phase 1 | Pending |
+| PROJ-02 | Phase 1 | Pending |
+| PROJ-03 | Phase 1 | Pending |
+| PROJ-04 | Phase 1 | Pending |
+| PROJ-05 | Phase 1 | Pending |
+| TECH-01 | Phase 1 | Pending |
+| TECH-02 | Phase 1 | Pending |
+| TECH-03 | Phase 1 | Pending |
+| BLOG-01 | Phase 1 | Pending |
+| BLOG-02 | Phase 1 | Pending |
+| BLOG-03 | Phase 1 | Pending |
+| CNT-01 | Phase 1 | Pending |
+| CNT-02 | Phase 1 | Pending |
+| CNT-03 | Phase 1 | Pending |
+| CNT-04 | Phase 1 | Pending |
+| CNT-05 | Phase 1 | Pending |
+| CNT-06 | Phase 1 | Pending |
+| CNT-07 | Phase 1 | Pending |
+| CNT-08 | Phase 1 | Pending |
+| LGL-01 | Phase 1 | Pending |
+| LGL-02 | Phase 1 | Pending |
+| LGL-03 | Phase 1 | Pending |
+| LGL-04 | Phase 1 | Pending |
+| LGL-05 | Phase 1 | Pending |
+| PERF-01 | Phase 1 | Pending |
+| PERF-02 | Phase 1 | Pending |
+| PERF-03 | Phase 1 | Pending |
+| A11Y-01 | Phase 1 | Pending |
+| A11Y-02 | Phase 1 | Pending |
+| A11Y-03 | Phase 1 | Pending |
+| SEO-01 | Phase 1 | Pending |
+| SEO-02 | Phase 1 | Pending |
+| SEO-03 | Phase 1 | Pending |
+| SEO-04 | Phase 1 | Pending |
+| SEO-05 | Phase 1 | Pending |
+| TST-01 | Phase 1 | Pending |
+| TST-02 | Phase 1 | Pending |
+| TST-03 | Phase 1 | Pending |
+| TST-04 | Phase 1 | Pending |
+| TST-05 | Phase 1 | Pending |
+| TST-06 | Phase 1 | Pending |
+| TST-07 | Phase 1 | Pending |
+| TST-08 | Phase 1 | Pending |
+| TST-09 | Phase 1 | Pending |
+| CNTM-01 | Phase 2 | Pending |
+| CNTM-02 | Phase 2 | Pending |
+| CNTM-03 | Phase 2 | Pending |
+| CNTM-04 | Phase 2 | Pending |
+| CNTM-05 | Phase 2 | Pending |
+| CNTM-06 | Phase 2 | Pending |
+| CNTM-07 | Phase 2 | Pending |
+| CNTM-08 | Phase 2 | Pending |
+| CNTM-09 | Phase 2 | Pending |
+| TOOL-01 | Phase 3 | Pending |
+| TOOL-02 | Phase 3 | Pending |
+| TOOL-03 | Phase 3 | Pending |
+| TOOL-04 | Phase 3 | Pending |
+| TOOL-05 | Phase 3 | Pending |
+| TST-10 | Phase 3 | Pending |
+| MAP-01 | Phase 4 | Pending |
+| MAP-02 | Phase 4 | Pending |
+| MAP-03 | Phase 4 | Pending |
+| MAP-04 | Phase 4 | Pending |
+| MAP-05 | Phase 4 | Pending |
+| MAP-06 | Phase 4 | Pending |
+| MAP-07 | Phase 4 | Pending |
+| MAP-08 | Phase 4 | Pending |
+| 3D-01 | Phase 4 | Pending |
+| 3D-02 | Phase 4 | Pending |
+| 3D-03 | Phase 4 | Pending |
+| 3D-04 | Phase 4 | Pending |
+| 3D-05 | Phase 4 | Pending |
+| 3D-06 | Phase 4 | Pending |
+| AI-01 | Phase 5 | Pending |
+| AI-02 | Phase 5 | Pending |
+| AI-03 | Phase 5 | Pending |
+| AI-04 | Phase 5 | Pending |
+| AI-05 | Phase 5 | Pending |
+| AI-06 | Phase 5 | Pending |
+| AI-07 | Phase 5 | Pending |
+| AI-08 | Phase 5 | Pending |
+| MED-01 | Phase 6 | Pending |
+| MED-02 | Phase 6 | Pending |
+| MED-03 | Phase 6 | Pending |
+| PRT-01 | Phase 7 | Pending |
+| PRT-02 | Phase 7 | Pending |
+| PRT-03 | Phase 7 | Pending |
+| PRT-04 | Phase 7 | Pending |
+| PRT-05 | Phase 7 | Pending |
+| PRT-06 | Phase 7 | Pending |
+| PRT-07 | Phase 7 | Pending |
+| PRT-08 | Phase 7 | Pending |
+| PRT-09 | Phase 7 | Pending |
+| PRT-10 | Phase 7 | Pending |
 
 **Coverage:**
-- v1 requirements: 113 total (count to be verified by roadmapper)
-- Mapped to phases: 0 (pending roadmap creation)
-- Unmapped: 113 ⚠️ (will be 0 after roadmap)
+- v1 requirements: **131 total** (verified by roadmapper — original "113" estimate was inaccurate)
+- Mapped to phases: **131** (100%)
+- Unmapped: **0** ✓
+
+**Per-phase counts:**
+- Phase 1 (Çekirdek + Tasarım Sistemi): **81** requirements
+- Phase 2 (İçerik & Pazarlama): **9** requirements
+- Phase 3 (Mühendislik Araçları): **6** requirements
+- Phase 4 (Harita & 3D): **14** requirements
+- Phase 5 (AI Asistan UI mock): **8** requirements
+- Phase 6 (Canlı Üretim & Medya mock): **3** requirements
+- Phase 7 (Müşteri Portalı UI mock): **10** requirements
+- **Total: 131** ✓
 
 ---
 *Requirements defined: 2026-04-25*
-*Last updated: 2026-04-25 after initial definition*
+*Last updated: 2026-04-25 by roadmapper — traceability filled, coverage 131/131*
